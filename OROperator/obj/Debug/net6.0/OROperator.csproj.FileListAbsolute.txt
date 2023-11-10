@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week5-logicaloperators/OROperator/bin/Debug/net6.0/OROperator
+/Users/kris/Projects/Week5-logicaloperators/OROperator/bin/Debug/net6.0/OROperator.deps.json
+/Users/kris/Projects/Week5-logicaloperators/OROperator/bin/Debug/net6.0/OROperator.runtimeconfig.json
+/Users/kris/Projects/Week5-logicaloperators/OROperator/bin/Debug/net6.0/OROperator.dll
+/Users/kris/Projects/Week5-logicaloperators/OROperator/bin/Debug/net6.0/OROperator.pdb
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.AssemblyInfo.cs
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.dll
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/refint/OROperator.dll
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.pdb
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/OROperator.genruntimeconfig.cache
+/Users/kris/Projects/Week5-logicaloperators/OROperator/obj/Debug/net6.0/ref/OROperator.dll

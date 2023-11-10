@@ -1,0 +1,15 @@
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.csproj.AssemblyReference.cache
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.AssemblyInfoInputs.cache
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.AssemblyInfo.cs
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.csproj.CoreCompileInputs.cache
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/bin/Debug/net6.0/ADDRanges
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/bin/Debug/net6.0/ADDRanges.deps.json
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/bin/Debug/net6.0/ADDRanges.runtimeconfig.json
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/bin/Debug/net6.0/ADDRanges.dll
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/bin/Debug/net6.0/ADDRanges.pdb
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.dll
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/refint/ADDRanges.dll
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.pdb
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ADDRanges.genruntimeconfig.cache
+/Users/kris/Projects/Week5-logicaloperators/ADDRanges/obj/Debug/net6.0/ref/ADDRanges.dll
